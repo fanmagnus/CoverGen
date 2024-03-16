@@ -1,4 +1,8 @@
-# Fan's Cover Letter Generator and Job Organizer (Windows)
+# Cover Letter Generator and Job Organizer (.exe edition)
+
+## Description
+
+A desktop app that serves as a spreadsheet that generates pdf files based on information of each record. The original purpose is to serve as a centralized hub for job applications and to generate cover letters using template. It was originally written in 2018 for myself. I find the letters generated still more logically consistent than Large Language Models (I did not learn the customer services skills when teaching at a college!). This app is written in Python and processed using pyinstaller, and contains all files needed to run on windows.
 
 ## How to Use?
 
