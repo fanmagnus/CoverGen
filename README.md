@@ -4,6 +4,10 @@
 
 A desktop app that serves as a spreadsheet that generates pdf files based on information of each record. The original purpose is to serve as a centralized hub for job applications and to generate cover letters using template. It was originally written in 2018 for myself. I find the letters generated still more logically consistent than Large Language Models (I did not learn the customer services skills when teaching at a college!). This app is written in Python and processed using pyinstaller, and contains all files needed to run on windows.
 
+## Help! My AntiVirus Software Claims that It's a Virus!
+
+Unfortunately, this could happen to Python projects processed by pyinstaller. If you do not wish to white list the program in your AntiVirus Software, and if you are comfortable installing Python and potentially a few packages, check out [the pyw version of this app](https:/https://github.com/fanmagnus/CoverGen_pyw).
+
 ## How to Use?
 
 Excute the RUN.vbs in the top folder. You can add a shortcut to your desktop for quick access.
