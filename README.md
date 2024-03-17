@@ -6,7 +6,7 @@ A desktop app that serves as a spreadsheet that generates pdf files based on inf
 
 ## Help! My AntiVirus Software Claims that It's a Virus!
 
-Unfortunately, this could happen to Python projects processed by pyinstaller. If you do not wish to white list the program in your AntiVirus Software, and if you are comfortable installing Python and potentially a few packages, check out [the pyw version of this app](https:/https://github.com/fanmagnus/CoverGen_pyw).
+Unfortunately, this could happen to Python projects processed by pyinstaller. If you do not wish to white list the program in your AntiVirus Software, and if you are comfortable installing Python and potentially a few packages, check out [the pyw version of this app](https://github.com/fanmagnus/CoverGen_pyw).
 
 ## How to Use?
 
